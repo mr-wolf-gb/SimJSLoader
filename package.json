@@ -1,0 +1,20 @@
+{
+    "name": "simjsloader",
+    "version": "1.0.1",
+    "description": "javascript file dynamic loader with call_back & logs for loading ..",
+    "main": "SimJSLoader.js",
+    "scripts": {
+        "test": "SimJSLoader('racine/','file.js',false,true,function({ /*todo_after_load*/ }));"
+    },
+    "keywords": [
+        "jquery",
+        "jsloader",
+        "dynamic",
+        "loader",
+        "javascript",
+        "js",
+        "file"
+    ],
+    "author": "GAYTH BACCARI <gaiththewolf@gmail.com> (https://www.myget.org/F/wolfpack/npm/)",
+    "license": "ISC"
+}
